@@ -2,9 +2,10 @@
   "name": "free-games-checker",
   "version": "1.0.0",
   "description": "Project designed for get free games from online stores.",
-  "main": "index.ts",
+  "types": "dist",
+  "main": "dist/src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc --build"
   },
   "author": "Cagri Sungur",
   "license": "MIT",
