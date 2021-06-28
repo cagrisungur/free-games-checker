@@ -1,5 +1,5 @@
 # About
-This package designed for get free games from online stores.
+This package designed for get free games from online stores. Also thanks to @Auropic, I was inspired while doing the project.
 
 ## Techs
 - [node.js](https://nodejs.org/en/) - As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications
