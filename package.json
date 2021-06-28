@@ -1,6 +1,6 @@
 {
   "name": "free-games-checker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Project designed for get free games from online stores.",
   "types": "dist",
   "main": "dist/src/index.js",
