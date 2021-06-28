@@ -17,6 +17,10 @@
     "epic-store",
     "online-free-games"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagrisungur/free-games-checker.git"
+  },
   "devDependencies": {
     "typescript": "^4.3.4"
   },
