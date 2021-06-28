@@ -1,0 +1,26 @@
+{
+  "name": "free-games-checker",
+  "version": "1.0.0",
+  "description": "Project designed for get free games from online stores.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cagri Sungur",
+  "license": "MIT",
+  "keywords": [
+    "epic-games",
+    "free",
+    "games",
+    "free-games",
+    "epic-free-games",
+    "epic-store",
+    "online-free-games"
+  ],
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
