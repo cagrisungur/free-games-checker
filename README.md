@@ -29,6 +29,13 @@ getEpicGames("TR").then(res => {
     // TODO
 });
 ```
+OR
+
+```javascript
+var freeGamesChecker = require("free-games-checker")
+
+console.log(await freeGamesChecker.getEpicGames('TR'))
+```
 
 ## Output
 
