@@ -21,13 +21,13 @@ This package designed for get free games from online stores. Also thanks to [@Au
 ## Usage 
 
 ```typescript
-const { getEpicGames } from "free-games-checker"
+import { getEpicGames } from "free-games-checker"
 
-getEpicGames("TR").then(res => {
-    // TODO
-}).catch(err => {
-    // TODO
-});
+async function main() {
+    const data = await getEpicGames('TR')
+
+    console.log(data)
+}
 ```
 OR
 
