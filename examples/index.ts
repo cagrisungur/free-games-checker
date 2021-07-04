@@ -1,4 +1,10 @@
-import { getEpicGames} from "../src/index";
+import { getEpicGames, getSteamGames } from "../src/index";
 
 
-console.log(getEpicGames('TR'));
+async function main() {
+    const data = await getSteamGames()
+
+    console.log(data)
+}
+
+main()
