@@ -1,4 +1,4 @@
-export interface EpicGamesInterface {
+export interface SteamGamesInterface {
     games: {
         id: number
         title: string

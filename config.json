@@ -1,3 +1,4 @@
 {
-  "epic_games_api_url": "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?country="
+  "epic_games_api_url": "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?country=",
+  "steam_games_crawl_url": "https://steamdb.info/upcoming/free/"
 }
