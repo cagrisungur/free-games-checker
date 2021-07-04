@@ -7,7 +7,7 @@ export interface EpicGamesInterface {
         originalPrice: string
         description: string
         productSlug: string
-        url: string
+        urlSlug: string
         startDate: string,
         endDate: string
     }

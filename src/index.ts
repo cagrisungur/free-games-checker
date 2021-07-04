@@ -65,7 +65,7 @@ async function filter(data: AxiosResponse) {
                 title: game.title,
                 description: game.description,
                 mainImage: game.keyImages[1].url ?? game.keyImages[1].url,
-                url: game.urlSlug
+                urlSlug: game.urlSlug
             }
         })
     }
